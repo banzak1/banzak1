@@ -20,7 +20,7 @@
     alt="Gmail"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Outlook-664FB5?style=flat&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-664FB5?style=flat&logo=Gmaill&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/banzak" 
