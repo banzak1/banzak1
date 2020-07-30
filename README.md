@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fontmeme.com/permalink/200730/bdd8b643c78e44c72ce230ef12e75f0b.png" width="500"
+  <img src="https://fontmeme.com/permalink/200730/bdd8b643c78e44c72ce230ef12e75f0b.png" width="300"
   alt="Kalvaitir.com" />
 </p>
 
