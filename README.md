@@ -1,16 +1,66 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://fontmeme.com/permalink/200730/bdd8b643c78e44c72ce230ef12e75f0b.png" width="500"
+  alt="Kalvaitir.com" />
+</p>
 
-<!--
-**banzak1/banzak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a
+    href="https://web.whatsapp.com/send?phone=+5575981460783" 
+    alt="WhatsApp"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-WhatsApp-664FB5?style=flat&logo=WhatsApp&logoColor=white" />
+  </a>
+  <a
+    href="mailto:leosantanabr@gmail.com" 
+    alt="Gmail"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Outlook-664FB5?style=flat&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a
+    href="https://www.linkedin.com/in/banzak" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-664FB5?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a
+    href="https://github.com/banzak1"
+    alt="GitHub"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-GitHub-664FB5?style=flat&logo=Github&logoColor=white" />
+  </a>
+  <a
+    href="https://www.facebook.com/l.santana123" 
+    alt="Facebook"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Facebook-664FB5?style=flat&logo=Facebook&logoColor=white" />
+  </a>
+  <a
+    href="https://www.instagram.com/leo1santana" 
+    alt="Instagram"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Instagram-664FB5?style=flat&logo=Instagram&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">
+  Hey, I'm Leonardo! 👋
+</h4>
+<p align="center">
+  📌 Living in <b>Nazaré</b>, <b>Bahia</b>, <b>Brazil</b> &nbsp;
+</p>
+<p align="center">
+  📚 Graduating in <b>Analysis and Systems Development</b> &nbsp;
+</p>
+<p align="center">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
+</p>
