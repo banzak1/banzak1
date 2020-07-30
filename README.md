@@ -64,3 +64,10 @@
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
 </p>
+
+<p align="center">
+  &nbsp;
+  <a href="https://github.com/bernardojachegou">
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=banzak1&show_icons=true&theme=dark&line_height=27&text_color=664FB5&icon_color=ffffff" alt="Leonardo Santana Github Stats"/>
+  </a>
+</p> 
