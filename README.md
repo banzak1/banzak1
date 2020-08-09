@@ -67,7 +67,7 @@
 
 <p align="center">
   &nbsp;
-  <a href="https://github.com/bernardojachegou">
+  <a href="https://github.com/banzak1">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=banzak1&show_icons=true&theme=dark&line_height=27&text_color=664FB5&icon_color=ffffff" alt="Leonardo Santana Github Stats"/>
   </a>
 </p> 
