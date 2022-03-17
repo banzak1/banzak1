@@ -58,7 +58,7 @@
   📚 Graduating in <b>Analysis and Systems Development</b> &nbsp;
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Javascript</b>, <b>Html</b> and <b>CSS</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>VueJs</b>, <b>SpringBoot</b> and <b>PostgreSQL</b>
 </p>
 
 <p align="center">
