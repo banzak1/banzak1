@@ -1,16 +1,9 @@
 
 <p align="center">
-  JavaScript | HTML | CSS | Git
+  Desenvolvedor Fullstack | Java | Node.js | Vue.js
 </p>
 
 <p align="center">
-  <a
-    href="https://web.whatsapp.com/send?phone=+5575981460783" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-WhatsApp-664FB5?style=flat&logo=WhatsApp&logoColor=white" />
-  </a>
   <a
     href="mailto:leosantanabr@gmail.com" 
     alt="Gmail"
@@ -31,20 +24,6 @@
     target="blank"
   >
     <img src="https://img.shields.io/badge/-GitHub-664FB5?style=flat&logo=Github&logoColor=white" />
-  </a>
-  <a
-    href="https://www.facebook.com/leosantanaxD" 
-    alt="Facebook"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Facebook-664FB5?style=flat&logo=Facebook&logoColor=white" />
-  </a>
-  <a
-    href="https://www.instagram.com/leo1santana" 
-    alt="Instagram"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Instagram-664FB5?style=flat&logo=Instagram&logoColor=white" />
   </a>
 </p>
 
